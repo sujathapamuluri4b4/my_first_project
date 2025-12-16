@@ -67,3 +67,20 @@ nothing to commit, working tree clean
  2186  git branch 
  2187  git push
  2188  git status
+
+ note 2:
+ 2192  git status
+ 2193  git init
+ 2194  git status
+ 2195  git add .
+ 2196  git commit -m "This is my first project"
+ 2197  git status
+ 2198  git push
+ 2199  git branch
+ 2200  git git remote add origin git@github.com:sujathapamuluri4b4/my_first_project.git
+ 2201  git remote add origin git@github.com:sujathapamuluri4b4/my_first_project.git
+ 2202  git status
+ 2203  git push
+ 2204  git branch
+ 2205  git push --set-upstream origin master
+ 2206  git status
